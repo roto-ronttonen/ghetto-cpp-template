@@ -9,9 +9,9 @@
       "request": "launch",
       "name": "Debug",
       "preLaunchTask": "Build",
-      "program": "${workspaceFolder}/build/program",
+      "program": "${workspaceFolder}/build/prog",
       "args": [],
-      "cwd": "${workspaceFolder}/build/program"
+      "cwd": "${workspaceFolder}/build"
     }
   ]
 }
